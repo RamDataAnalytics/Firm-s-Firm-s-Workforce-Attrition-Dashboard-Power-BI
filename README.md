@@ -1,5 +1,5 @@
 
-# Project Title
+# Employees Attrition Rate Analysis & Data Driven Optimized Strategy  Building
 Welcome to the Employee Attrition Analysis Dashboard repository! This project aims to provide a comprehensive, interactive, and highly efficient dashboard to analyze and visualize employee attrition rates. By leveraging various data analytics and visualization tools, the dashboard allows HR professionals and organizational leaders to gain deep insights into the factors contributing to employee turnover.
 
 
